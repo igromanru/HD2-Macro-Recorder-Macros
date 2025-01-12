@@ -1,5 +1,6 @@
 SWITCH TO WINDOW : HELLDIVERS™ 2 : 0
-DELAY : 250
+DELAY : 100
+IF WINDOW IN FOCUS : HELLDIVERS™ 2 : 0
 Keyboard : Y : KeyPress
 DELAY : 100
 Keyboard : Down : KeyPress
@@ -28,3 +29,4 @@ DELAY : 10
 Mouse : 0 : 0 : Click : 0 : 1 : 0
 DELAY : 800
 ENDREPEAT
+ENDIF
