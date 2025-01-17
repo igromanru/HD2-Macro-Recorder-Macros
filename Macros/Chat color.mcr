@@ -1,6 +1,0 @@
-IF WINDOW IN FOCUS : HELLDIVERS™ 2 : 0
-Keyboard : Enter : KeyPress
-DELAY : 200
-COMMENT : Doesn't work
-TYPE TEXT : <c=FFFF0000>
-ENDIF
